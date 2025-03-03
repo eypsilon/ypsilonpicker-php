@@ -28,7 +28,7 @@ Clone this repository into your local <ins>bin</ins> directory (or another prefe
 mkdir -p ~/bin/ypsilonpicker-php
 cd ~/bin/ypsilonpicker-php
 git clone https://github.com/eypsilon/ypsilonpicker-php.git .
-chmod +x ypsilonpicker.php
+chmod +x YpsilonPicker.php
 ```
 
 
@@ -37,7 +37,7 @@ chmod +x ypsilonpicker.php
 Simply run:
 
 ```sh
-~/bin/ypsilonpicker-php/ypsilonpicker.php
+~/bin/ypsilonpicker-php/YpsilonPicker.php
 ```
 
 __Example output after selection__
@@ -65,7 +65,7 @@ To shorten the command, add this alias to your <ins>.bashrc</ins> or <ins>.zshrc
 
 ```sh
 # sudo nano ~/.bash_aliases
-alias ypick="~/bin/ypsilonpicker-php/ypsilonpicker.php"
+alias ypick="~/bin/ypsilonpicker-php/YpsilonPicker.php"
 
 # Reload your shell
 source ~/.bashrc
@@ -93,7 +93,7 @@ nano ~/.local/share/applications/ypsilonpicker.desktop
 [Desktop Entry]
 Name=Ypsilon Picker
 Comment=Pick colors from the screen
-Exec=gnome-terminal --geometry=60x12+100+100 -- bash -c "php ~/bin/ypsilonpicker-php/ypsilonpicker.php; exec bash"
+Exec=gnome-terminal --geometry=60x12+100+100 -- bash -c "php ~/bin/ypsilonpicker-php/YpsilonPicker.php; exec bash"
 Icon=preferences-color
 Terminal=true
 Type=Application
