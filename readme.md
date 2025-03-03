@@ -3,9 +3,9 @@
 **Authors:** ChatGPT by OpenAI & Engin Ypsilon by `class:Parent()`
 
 ## Overview
+➜ Compatibility: GNOME 45 & 46 (tested on 46)
 
 Ypsilon Picker is a simple terminal-based color picker for Wayland-based GNOME desktops. Click anywhere on the screen and instantly retrieve the RGB and HEX values of the selected color.
-
 
 ### Features
 
