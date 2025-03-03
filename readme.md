@@ -100,7 +100,7 @@ Type=Application
 Categories=Utility;
 ```
 
-* **Save and close the file (`Ctrl+X`, then `Y`, then `Enter`).**
+* **Save and close the file (`Ctrl+o`, then `Enter`, then `Ctrl-x`).**
 
 Now, you can search for "Ypsilon Picker" in your application menu and run it like a boss! 🎨
 
