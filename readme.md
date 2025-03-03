@@ -160,13 +160,3 @@ Just save it as `ypsilonpicker.sh`, make it executable, and run it:
 chmod +x ypsilonpicker.sh
 ./ypsilonpicker.sh
 ```
-
----
-
-##### License
-
-[**MIT License**](./LICENSE)
-
-
-<!-- Tags for searchability -->
-**Tags:** `Color-Picker` `Wayland-Color-Picker` `Linux-Color-Picker` `GNOME-Color-Picker` `CLI-Color-Picker` `RGB-Hex-Extractor` `PHP-Terminal-Tool` `Open-Source-Color-Picker`
