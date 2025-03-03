@@ -9,10 +9,10 @@ Ypsilon Picker is a simple terminal-based color picker for Wayland-based GNOME d
 
 ### Features
 
-✅ **Wayland-compatible** – Works on modern GNOME, unlike X11-based pickers. &nbsp;
-✅ **Minimal & fast** – A single PHP script with no dependencies beyond PHP and GNOME’s built-in tools. &nbsp;
-✅ **Optional clipboard support** – Automatically copies the HEX value to your clipboard. &nbsp;
-✅ **Easy access** – Use it as a CLI tool or create a desktop launcher for quick access.
+- ✅ **Wayland-compatible** – Works on modern GNOME, unlike X11-based pickers.
+- ✅ **Minimal & fast** – A single PHP script with no dependencies beyond PHP and GNOME’s built-in tools.
+- ✅ **Optional clipboard support** – Automatically copies the HEX value to your clipboard.
+- ✅ **Easy access** – Use it as a CLI tool or create a desktop launcher for quick access.
 
 ---
 
