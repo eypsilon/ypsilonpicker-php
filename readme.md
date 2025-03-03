@@ -14,6 +14,12 @@ Ypsilon Picker is a simple terminal-based color picker for Wayland-based GNOME d
 - ✅ **Optional clipboard support** – Automatically copies the HEX value to your clipboard.
 - ✅ **Easy access** – Use it as a CLI tool or create a desktop launcher for quick access.
 
+### Alternative
+
+***Ypsilon Picker - GNOME Shell Extension***
+
+[https://github.com/eypsilon/ypsilonpicker-gnome](https://github.com/eypsilon/ypsilonpicker-gnome)
+
 ---
 
 ## **Installation**
@@ -156,8 +162,6 @@ Just save it as `ypsilonpicker.sh`, make it executable, and run it:
 chmod +x ypsilonpicker.sh
 ./ypsilonpicker.sh
 ```
-
-> **2. Alternative:** [GNOME Shell extension version](https://github.com/eypsilon/ypsilonpicker-gnome)
 
 ---
 
