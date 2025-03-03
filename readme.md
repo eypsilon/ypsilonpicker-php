@@ -93,7 +93,7 @@ nano ~/.local/share/applications/ypsilonpicker.desktop
 [Desktop Entry]
 Name=Ypsilon Picker
 Comment=Pick colors from the screen
-Exec=gnome-terminal --geometry=60x12+100+100 -- bash -c "php ~/bin/ypsilonpicker-php/YpsilonPicker.php; exec bash"
+Exec=gnome-terminal --geometry=54x6+100+100 -- bash -c "php ~/bin/ypsilonpicker-php/YpsilonPicker.php; exec bash"
 Icon=preferences-color
 Terminal=true
 Type=Application
