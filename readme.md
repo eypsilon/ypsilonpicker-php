@@ -16,9 +16,7 @@ Ypsilon Picker is a simple terminal-based color picker for Wayland-based GNOME d
 
 ### Alternative
 
-***Ypsilon Picker - GNOME Shell Extension***
-
-[https://github.com/eypsilon/ypsilonpicker-gnome](https://github.com/eypsilon/ypsilonpicker-gnome)
+[***Ypsilon Picker - GNOME Shell Extension***](https://github.com/eypsilon/ypsilonpicker-gnome)
 
 ---
 
